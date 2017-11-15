@@ -1,2 +1,2 @@
 ### sdna-paper-codes
-Codes for paper replication of SDNA.
+Codes for SDNA paper replication.
